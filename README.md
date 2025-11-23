@@ -1,6 +1,9 @@
-Just Getting Famliar with this :) 
+Right now I’m focused on improving my engineering depth, shipping small but useful projects, and learning systems better
+Goals 2026
+Build 4–6 solid portfolio projects
 
-<!---
-AYUS5/AYUS5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Crack system fundamentals
+
+Prep for research/internships in AI + Cloud
+
+Become genuinely good at software engineering, not just course-level good 
